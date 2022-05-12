@@ -1,8 +1,14 @@
 <div align="center">
-  <a href="https://github.com/t-wilkinson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-wilkinson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="360em" src="https://activity-graph.herokuapp.com/graph?username=t-wilkinson&hide_border=false&theme=dracula" />
+
+  ##
+  
+  <div style="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-wilkinson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-wilkinson&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  </div>
+
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Fil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
