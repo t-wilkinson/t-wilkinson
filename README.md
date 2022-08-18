@@ -1,13 +1,6 @@
 ## Projects
 [My portfolio](https://treywilkinson.com)
 
-[Klean Studios](https://kleanstudio.com) - Informational website for a recording studio
-
-[Infinite Closet](https://infinitecloset.co.uk) - High-end fashion rental website based in the UK
-
-[Land Decor Inc](https://landdecorinc.com) - E-commerce website for a landscaping company
-
-
 ## Github Stats
 
 <div align="center">
