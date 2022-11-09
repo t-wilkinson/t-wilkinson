@@ -1,8 +1,8 @@
 ## Projects
-[My portfolio](https://treywilkinson.com)
-[Infinite Closet](https://infinitecloset.co.uk)
-[Land Decor Inc](https://landdecorinc.com)
-[Klean Studios](https://kleanstudio.com)
+- [My portfolio](https://treywilkinson.com)
+- [Infinite Closet](https://infinitecloset.co.uk)
+- [Land Decor Inc](https://landdecorinc.com)
+- [Klean Studios](https://kleanstudio.com)
 
 
 ## Github Stats
