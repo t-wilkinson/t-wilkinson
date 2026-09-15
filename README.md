@@ -1,8 +1,8 @@
 ## Projects
 - [My portfolio](https://treywilkinson.com)
-- [Infinite Closet](https://infinitecloset.co.uk)
+- [Edge AI on the ESP32 CAM](https://github.com/t-wilkinson/projects/tree/main/ai/esp32-pc-object-detection)
+- [Infinite Closet](https://github.com/t-wilkinson/infinite-closet)
 - [Land Decor Inc](https://landdecorinc.com)
-- [Klean Studios](https://kleanstudio.com)
 
 <!--
 ## Github Stats
